@@ -1,0 +1,21 @@
+1) Involvement
+2) Amusement
+3) Pride
+4) Happiness
+5) Pleasure
+6) Love
+7) Awe
+8) Relief
+9) Surprise
+10) Nostalgia
+11) Pity
+12) Sadness
+13) Worry
+14) Shame
+15) Guilt
+16) Regret
+17) Envy
+18) Disgust
+19) Contempt
+20) Anger
+
